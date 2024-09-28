@@ -1,5 +1,10 @@
 <h1 align="center"> Multi-setup depth perception through virtual image hallucination (ECCV 2024 DEMO) </h1> 
 
+<h2 align="center"> 
+
+ [Project Page](https://eventvppstereo.github.io/demo.html)
+</h2>
+
 <br>
 
 :rotating_light: This repository contains download links to our code of our prototype  "**Multi-setup depth perception through virtual image hallucination**",  [ECCV 2024 DEMOs](https://eccv.ecva.net/). Our prototype is based on our previous works "**Active Stereo Without Pattern Projector**",  [ICCV 2023](https://iccv2023.thecvf.com/) and "**Stereo-Depth Fusion through Virtual Pattern Projection**", Journal Extension of ICCV paper, **Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization** [3DV 2024](https://3dvconf.github.io/2024/), **LiDAR-Event Stereo Fusion with Hallucinations** [ECCV 2024](https://eccv.ecva.net/). You can find all links here: [Related Papers](https://lnk.bio/eccv24demo)
